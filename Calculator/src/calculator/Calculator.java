@@ -1,6 +1,6 @@
 package calculator;
 
-public class Kalkulator {
+public class Calculator {
 
     public static void main(String[] args) {
 
