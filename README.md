@@ -1,4 +1,4 @@
-# iPhone-Calculator
+# iPhone Calculator
 ---
 
 ## Table of Contents
@@ -16,12 +16,12 @@ iPhone Calculator is a desktop application which allows to perform basic mathema
 
 # Preview
 
-<img src="https://github.com/KKofta/iPhone-Calculator/Preview/Preview.gif">
+<img src="https://github.com/KKofta/iPhone-Calculator/blob/master/Preview/Preview.gif">
 
 ---
 
 ### Motivation
-App was created in order to expand Java knowladge and learn new techniques & tools, such as Scene Builder and FXML. 
+App was created in order to expand Java knowladge and learn new techniques & tools, such as `Scene Builder` and `FXML`. 
 
 ---
 
@@ -37,7 +37,7 @@ App was created in order to expand Java knowladge and learn new techniques & too
 ### Application Usage
 In order to run application locally you must have installed `JRE 8`. 
 
-1. Download Calculator.jar file. 
+1. Download `Calculator.jar` file. 
 
 2. Double click on it or run command: 
     ```bash
