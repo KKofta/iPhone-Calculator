@@ -14,7 +14,7 @@
 
 iPhone Calculator is a desktop application which allows to perform basic mathematical operations: addition, substraction, multiplication, division, percentage on both integers and floating-points. It works according to order of operations. 
 
-# Preview
+#### Preview
 
 <img src="https://github.com/KKofta/iPhone-Calculator/blob/main/Preview/Preview.gif">
 
