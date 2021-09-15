@@ -16,7 +16,7 @@ iPhone Calculator is a desktop application which allows to perform basic mathema
 
 # Preview
 
-<img src="https://github.com/KKofta/iPhone-Calculator/tree/main/Preview/Preview.gif">
+<img src="https://github.com/KKofta/iPhone-Calculator/blob/main/Preview/Preview.gif">
 
 ---
 
