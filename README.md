@@ -6,7 +6,6 @@
 * [Motivation](#motivation)
 * [Used Technologies](#used-technologies)
 * [Application usage](#application-usage)
-* [Screenshots](#screenshots)
 
 ---
 
